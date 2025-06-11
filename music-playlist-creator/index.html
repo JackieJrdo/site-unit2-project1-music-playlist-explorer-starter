@@ -11,17 +11,44 @@
 </head>
 <body>
     <header>
-        <!-- Your header content here -->
+        <div class="greyHeader" id="grad">
+            <div class="spinningRecord"></div>
+            <h1>Music Playlist Explorer</h1>
+            <a href="feature.html" class="feature-link">featured playlists</a>  </div>
     </header>
 
     <main> 
-        <!-- Your main content here -->
-    </main>
+        <div class = "container">
+            <div class = "playlistCards">
+        </div>
+        
 
+    <div class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <div class="modal-header">
+            <div class="playlist-cover">
+                <img src="./assets/img/playlist.png" alt="Playlist Cover">
+            </div>
+            <div class="playlist-info">
+                <h3 class="modal-title">Playlist Title</h3>
+                <h3 class="creator">Creator Name</h3>
+            </div>
+        </div>
+        <div class = "shuffleContainer">
+            <button class="shuffle-button" id="gradShuffle" type="button">⇄</button>
+        </div>
+        <div class="dynamicModalContainer">
+        </div>
+    </div>
+
+    </div>
+    </main>
     <footer>
-        <!-- Your footer content here -->
+        <iframe style="border-radius:12px; bottom: 0; position: fixed; background-color: black; box-shadow: 0px 3px 20px 1px white;" src="https://open.spotify.com/embed/track/5mCPDVBb16L4XQwDdbRUpz?utm_source=generator&theme=0" width="100%"
+        height="100" frameBorder="0" allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </footer>
-    <script src="data/data.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
