@@ -1,0 +1,276 @@
+[
+    {
+
+        "playlist": [
+            {
+            "playlistID": 1,
+            "playlist_name": "Quiddy",
+            "playlist_author": "by Jack E",
+            "playlist_art": "assets/img/quiddy3.jpg",
+            "likes": 123,
+            "songs": [
+                {
+                "songID": 1,
+                "song_name": "Passionfruit 🅴",
+                "song_artist": "Drake",
+                "song_duration": "3:45",
+                "song_art": "assets/img/passionfruit.png"
+                },
+                {
+                "songID": 2,
+                "song_name": "PERRO NEGRO",
+                "song_artist": "Bad Bunny, Feid",
+                "song_duration": "4:20",
+                "song_art": "assets/img/perroNegro.png"
+                },
+                {
+                "songID": 3,
+                "song_name": "Die For You",
+                "song_artist": "The Weeknd",
+                "song_duration": "4:20",
+                "song_art": "assets/img/dieForYou.png"
+                },
+                {
+                "songID": 4,
+                "song_name": "Andrea",
+                "song_artist": "Bad Bunny",
+                "song_duration": "4:20",
+                "song_art": "assets/img/andrea.png"
+                }
+            ]
+            },
+            {
+            "playlistID": 2,
+            "playlist_name": "Rolitas",
+            "playlist_author": "Xx.sadboyz.xX",
+            "playlist_art": "assets/img/belico.jpg",
+            "likes": 23,
+            "songs": [
+                {
+                "songID": 5,
+                "song_name": "Y LLoro",
+                "song_artist": "Junior H",
+                "song_duration": "3:30",
+                "song_art": "assets/img/belico.jpg"
+                },
+                {
+                "songID": 6,
+                "song_name": "DOS DIAS",
+                "song_artist": "Tito Doble P",
+                "song_duration": "3:00",
+                "song_art": "assets/img/tito.png"
+                }, 
+                {"songID": 6,
+                "song_name": "FARANDULITAS",
+                "song_artist": "Tito Doble P",
+                "song_duration": "4:00",
+                "song_art": "assets/img/tito.png"
+                }
+            ]
+            }, 
+            {
+            "playlistID": 2,
+            "playlist_name": "Rockero",
+            "playlist_author": "by Jack E",
+            "playlist_art": "assets/img/rockero.jpg",
+            "likes": 0,
+            "songs": [
+                {
+                "songID": 5,
+                "song_name": "Tren Al Sur",
+                "song_artist": "Los Prisioneros",
+                "song_duration": "3:30",
+                "song_art": "assets/img/trenAlSur.png"
+                },
+                {
+                "songID": 6,
+                "song_name": "Lamento Boliviano",
+                "song_artist": "Los Enanitos Verdes",
+                "song_duration": "4:00",
+                "song_art": "assets/img/lamento.png"
+                },
+                {
+                "songID": 7,
+                "song_name": "Devuelveme a mi chica",
+                "song_artist": "Hombres G",
+                "song_duration": "4:00",
+                "song_art": "assets/img/DaMC.png"
+                },
+                {
+                "songID": 8,
+                "song_name": "Mariposa Traicionera",
+                "song_artist": "Mana",
+                "song_duration": "4:00",
+                "song_art": "assets/img/mariposa.png"
+                }
+                ]
+                }, 
+            {
+                "playlistID": 2,
+                "playlist_name": "Headbang or Die",
+                "playlist_author": "Jack E",
+                "playlist_art": "assets/img/rockerCat.jpg",
+                "likes": 500,
+                "songs": [
+                    {
+                    "songID": 5,
+                    "song_name": "Death Metal",
+                    "song_artist": "Motionless in White",
+                    "song_duration": "3:30",
+                    "song_art": "assets/img/song.png"
+                    },
+                    {
+                    "songID": 6,
+                    "song_name": "He who tolls",
+                    "song_artist": "5 Finger Death Punch",
+                    "song_duration": "4:00",
+                    "song_art": "assets/img/song.png"
+                    }
+                ]
+                },
+                {
+                    "playlistID": 2,
+                    "playlist_name": "yatusabe",
+                    "playlist_author": "Jack E",
+                    "playlist_art": "assets/img/yatusabe.jpg",
+                    "likes": 2,
+                    "songs": [
+                        {
+                        "songID": 5,
+                        "song_name": "Get Scared",
+                        "song_artist": "Jack E",
+                        "song_duration": "3:30",
+                        "song_art": "assets/img/song.png"
+                        },
+                        {
+                        "songID": 6,
+                        "song_name": "Death",
+                        "song_artist": "Artist D",
+                        "song_duration": "4:00",
+                        "song_art": "assets/img/song.png"
+                        }
+                    ]
+                    },
+                    {
+                        "playlistID": 2,
+                        "playlist_name": "Senior Music",
+                        "playlist_author": "Jack E",
+                        "playlist_art": "assets/img/seniorMusic.jpg",
+                        "likes": 324,
+                        "songs": [
+                            {
+                            "songID": 5,
+                            "song_name": "Hotel California",
+                            "song_artist": "The Eagles",
+                            "song_duration": "3:30",
+                            "song_art": "assets/img/song.png"
+                            },
+                            {
+                            "songID": 6,
+                            "song_name": "Sweet Child O Mine",
+                            "song_artist": "Guns n Roses",
+                            "song_duration": "4:00",
+                            "song_art": "assets/img/song.png"
+                            }
+                        ]
+                        },
+                        {
+                            "playlistID": 2,
+                            "playlist_name": "Sipping Cyanide",
+                            "playlist_author": "Jack E",
+                            "playlist_art": "assets/img/sipCyanide.jpeg",
+                            "likes": 0,
+                            "songs": [
+                                {
+                                "songID": 5,
+                                "song_name": "Sparks",
+                                "song_artist": "Coldplay",
+                                "song_duration": "3:30",
+                                "song_art": "assets/img/song.png"
+                                },
+                                {
+                                "songID": 6,
+                                "song_name": "As the World Caves in",
+                                "song_artist": "Artist D",
+                                "song_duration": "4:00",
+                                "song_art": "assets/img/song.png"
+                                }
+                            ]
+                            },
+                            {
+                                "playlistID": 2,
+                                "playlist_name": "Rockero 2.0",
+                                "playlist_author": "by Jack E",
+                                "playlist_art": "assets/img/mariposa.png",
+                                "likes": 0,
+                                "songs": [
+                                    {
+                                    "songID": 5,
+                                    "song_name": "Tren Al Sur",
+                                    "song_artist": "Los Prisioneros",
+                                    "song_duration": "3:30",
+                                    "song_art": "assets/img/trenAlSur.png"
+                                    },
+                                    {
+                                    "songID": 6,
+                                    "song_name": "Lamento Boliviano",
+                                    "song_artist": "Los Enanitos Verdes",
+                                    "song_duration": "4:00",
+                                    "song_art": "assets/img/lamento.png"
+                                    },
+                                    {
+                                    "songID": 7,
+                                    "song_name": "Devuelveme a mi chica",
+                                    "song_artist": "Hombres G",
+                                    "song_duration": "4:00",
+                                    "song_art": "assets/img/DaMC.png"
+                                    },
+                                    {
+                                    "songID": 8,
+                                    "song_name": "Mariposa Traicionera",
+                                    "song_artist": "Mana",
+                                    "song_duration": "4:00",
+                                    "song_art": "assets/img/mariposa.png"
+                                    }
+                                ]
+                                },
+                                {
+                                    "playlistID": 2,
+                                    "playlist_name": "Rocker 3.0",
+                                    "playlist_author": "by Jack E",
+                                    "playlist_art": "assets/img/tito.png",
+                                    "likes": 0,
+                                    "songs": [
+                                        {
+                                        "songID": 5,
+                                        "song_name": "Tren Al Sur",
+                                        "song_artist": "Los Prisioneros",
+                                        "song_duration": "3:30",
+                                        "song_art": "assets/img/trenAlSur.png"
+                                        },
+                                        {
+                                        "songID": 6,
+                                        "song_name": "Lamento Boliviano",
+                                        "song_artist": "Los Enanitos Verdes",
+                                        "song_duration": "4:00",
+                                        "song_art": "assets/img/lamento.png"
+                                        },
+                                        {
+                                        "songID": 7,
+                                        "song_name": "Devuelveme a mi chica",
+                                        "song_artist": "Hombres G",
+                                        "song_duration": "4:00",
+                                        "song_art": "assets/img/DaMC.png"
+                                        },
+                                        {
+                                        "songID": 8,
+                                        "song_name": "Mariposa Traicionera",
+                                        "song_artist": "Mana",
+                                        "song_duration": "4:00",
+                                        "song_art": "assets/img/mariposa.png"
+                                        }
+                                    ]
+                                    }
+        ]
+    }
+]
