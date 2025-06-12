@@ -1,5 +1,3 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Unit Assignment: Music Playlist Explorer
 
 Submitted by: **Jaqueline Jurado**
@@ -145,15 +143,15 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](htt
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+The topics did prepare me for similar/simple versions of the assignment, and helped have a base understanding. I felt a little unprepared to complete some of the logic in populating/shuffling the songs in the playlist modal because. I had to have brushed up on some general coding practices to complete the shuffling and reading!
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time, I would have incorporated the search, sort, and create/delete features. I think the way I have it now feels unfinished - although heavily styled. Since I also had the embedded Spotify songs in the footer, I would have loved to make those songs related to the playlist songs. So for example, I would have liked to be able to click on a song and have that change the spotify embed at the bottom to match that song.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+For my project demo, I think it went well overall since I had the majority of my code working for submission. I made sure to have playlists with likes already for the code submission as well. I definitely saw many more things in others presentation that I wanted to pick up. Another scholar had a python script to read from a Spotify generated csv of her personal top songs and had that populate into json! I would LOVE to learn from her to do that, because even if it is not necessary, I think its a neat (and more accurate) approach.
 
 ### Open-source libraries used
 
@@ -161,4 +159,4 @@ Add your response here
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Shoutout to Lucia for debugging with me! Vercel and GitHub (b/c of codepath fork) was not being friendly! Also a shoutout to Oliver for helping debug when he was long done with his project!
